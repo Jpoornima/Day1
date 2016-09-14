@@ -1,10 +1,13 @@
 this is the readme for `RubyRapper`, a ruby rapping program that enables your computer to freestyle.
 
-## Setup
+## Setup (assuming you have rbenv installed)
 
-`rbenv install`
-`gem install bundle`
-`bundle`
+within the ruby-rapper directory: 
+```
+rbenv install
+gem install bundle
+bundle
+```
 
 ## Running RubyRapper
 
